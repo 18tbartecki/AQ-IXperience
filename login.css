@@ -1,0 +1,33 @@
+body{
+	margin: 0;
+	background-color: #333533;
+	color: #DCC5E7;
+}
+
+.navbar {
+	padding-top: .5rem;
+	padding-bottom: .5rem;
+}
+
+h1 {
+	color: #DCC5E7;
+}
+
+h4 {
+	color: #FFFAFB;
+}
+
+.banner{
+	background-color: #787878;
+	width: 100%;
+}
+
+#errorMessage {
+	display: none;
+}
+
+#submit, #signup {
+	background-color: #87D68D;
+	color: #FFFAFB;
+	font-weight: bold;
+}

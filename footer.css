@@ -1,0 +1,40 @@
+.footer {
+  background: #2f2f28;
+  color: #DCC5E7;
+  padding-top: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height:150px;
+  font-size: 15px;
+}
+
+.footer span {
+  color: #FFFAFB;
+}
+
+.footer h6 {
+  color: #FFFAFB;
+}
+
+.footer .bolder {
+  font-weight: 700;
+}
+
+
+.footer i {
+  margin-top: 12px;
+  padding-left: 2px;
+  padding-right: 4px;
+}
+
+.footer a {
+	color: #DCC5E7;
+}
+
+@media(min-width: 768px) {
+  .footer {
+    padding-top: 20px;
+    height: 200px;
+  }
+}

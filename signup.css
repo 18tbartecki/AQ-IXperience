@@ -1,0 +1,13 @@
+body {
+	color: #87D68D;
+}
+
+#signup-body {
+	padding-bottom: 170px;
+}
+
+@media(min-width: 768px) {
+	#signup-body {
+		padding-bottom: 200px;
+	}
+}

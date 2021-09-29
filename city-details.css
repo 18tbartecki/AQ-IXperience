@@ -1,0 +1,195 @@
+body{
+	margin: 0;
+	background-color: #333533;
+	color: #DCC5E7;
+	position: relative;
+	min-height: 100%;
+	min-height: 100vh;
+	font-size: 20px;
+}
+
+h1 {
+	color: #DCC5E7;
+}
+
+h6 {
+	color: #FFFAFB;
+	font-size: 20px;
+}
+
+th {
+	color: #FFFAFB;
+	vertical-align: middle;
+}
+
+td {
+	color: #DCC5E7;
+	vertical-align: middle;
+}
+
+.search-info {
+	color: #DCC5E7;
+}
+
+.search-info a {
+	color: #DCC5E7;
+}
+
+td a {
+	color: #DCC5E7;
+}
+
+#location a {
+	color: #DCC5E7;
+}
+
+h4 {
+	color: #FFFAFB;
+	font-size: 20px;
+}
+
+.navbar {
+	padding-top: .5rem;
+	padding-bottom: .5rem;
+}
+
+.container-fluid {
+	padding-left: 0;
+	padding-right: 15px;
+}
+
+nav {
+	background: #188FA7;
+}
+
+img {
+  display: block;
+  max-width:250px;
+  max-height:145px;
+  width: auto;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+}
+
+
+#logout, #favorites, #login, #signup {
+	color: #FFFAFB;
+}
+
+#search, #search-return, #search-return-fav {
+	background-color: #87D68D;
+	color: #333533;
+	font-weight: bold;
+	width: 200px;
+}
+
+#search-return, #search-return-fav {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#city-row {
+	max-width: 700px;
+}
+
+.metric-heading {
+	font-size: 24px;
+	color: #FFFAFB;
+	text-align: center;
+}
+
+#update-remove {
+	margin-right: 80px;
+}
+
+.index p {
+	font-size: 48px;
+	text-align: center;
+}
+
+.index small {
+	font-size: 25px;
+}
+
+.graph {
+	text-align: center;
+	margin-top: 60px;
+}
+
+#results, #city-data {
+	padding-bottom: 150px;
+}
+
+#location p {
+	font-size: 22px;
+}
+
+#full-search {
+	max-width: 1100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#full-favs {
+	max-width: 1100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#delete-btn {
+	width: 1200px;
+}
+
+
+@media(min-width: 768px) {
+	#results, #city-data {
+		padding-bottom: 200px;
+	}
+
+	#location p {
+		font-size: 30px;
+	}
+
+	h4 {
+		font-size: 35px;
+	}
+
+	h6 {
+		font-size: 24px;
+	}
+
+	#results-data-adjust {
+		margin-top: 90px;
+	}
+
+	#results-data-adjust-fav {
+		margin-top: 60px;
+	}
+
+	#logout, #favorites, #login, #signup {
+		font-size: 20px;
+		margin-top: 5px;
+	}
+
+	img {
+	  display: block;
+	  max-width:460px;
+	  max-height: 230px;
+	  width: auto;
+	  height: auto;
+	  margin-left: auto;
+	  margin-right: auto;
+	}
+
+	body {
+		font-size: 24px;
+	}
+}
+
+@media(min-width: 768px) {
+
+
+}
+

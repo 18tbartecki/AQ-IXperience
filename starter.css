@@ -1,0 +1,46 @@
+body{
+	margin: 0;
+	background-color: #333533;;
+	color: #DCC5E7;
+	position: relative;
+	min-height: 100%;
+	min-height: 100vh;
+}
+
+h4 {
+	color: #FFFAFB;
+}
+
+nav {
+	background: #188FA7;
+}
+
+.navbar {
+	padding-top: .5rem;
+	padding-bottom: .5rem;
+}
+
+.container-fluid {
+	padding-left: 0;
+	padding-right: 15px;
+}
+
+#errorMessage {
+	display: none;
+}
+
+#signup {
+	background-color: #87D68D;
+	color: #333533;
+	font-weight: bold;
+}
+
+#submit, #signin {
+	background-color: #DCC5E7;
+	color: #333533;
+	font-weight: bold;
+}
+
+#logout-message a {
+	color: #188FA7;
+}
